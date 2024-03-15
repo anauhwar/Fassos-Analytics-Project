@@ -1,4 +1,7 @@
-![image](https://github.com/anauhwar/Fassos-Analytics-Project/assets/64798462/f34d9f58-c8a8-4684-b2d4-a4c6cda4ec24)
+![image](https://github.com/anauhwar/Fassos-Analytics-Project/assets/64798462/1eb84e32-08a5-49fc-a75c-2e6f7a1bdb50)
+
+
+
 
 ### Fassos Case Study Project README
 
