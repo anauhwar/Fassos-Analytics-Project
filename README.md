@@ -1,4 +1,5 @@
-![image](https://github.com/anauhwar/Fassos-Analytics-Project/assets/64798462/1eb84e32-08a5-49fc-a75c-2e6f7a1bdb50)
+![Dark Grey and Orange Modern Simple Food Promotion Banner](https://github.com/anauhwar/Fassos-Analytics-Project/assets/64798462/f62f7581-bac4-4a01-8d82-0e2acadff3d4)
+
 
 
 
