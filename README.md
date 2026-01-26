@@ -52,13 +52,6 @@ For executing the analysis tasks, the following SQL queries can be used:
 | `select * from rolls_recipes;`   |
 
 
-
-
-
-
-
-
-
 Conclusion
 By analyzing the provided datasets, insights can be gained into various aspects of Fassos' operations, which can help in making informed decisions to optimize performance and enhance customer satisfaction.
 
